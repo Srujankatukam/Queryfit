@@ -1,7 +1,8 @@
 fastapi[all]
 faker
-decouple-python
+python-decouple
 sentence-transformers
 pydantic
 mysql-connector-python
+
 openai
